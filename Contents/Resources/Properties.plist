@@ -85,7 +85,7 @@
         <key>itemListSelectionHighlightColor</key>
         <string>0.14 0.25 0.44 1</string>
         <key>itemListSelectionSubsearchHighlightColor</key>
-        <string>0.14 0.25 0.44 0.8</string>
+        <string>0.14 0.25 0.44 0.5</string>
         <key>itemListSeparatorLowerLineColor</key>
         <string>1 1 1 0.1</string>
         <key>itemListSeparatorLowerLineThickness</key>
@@ -131,9 +131,9 @@
         <key>textInputTitleFontName</key>
         <string>SFCompactRounded-Semibold</string>
         <key>windowBackgroundBlurRadius</key>
-        <integer>10</integer>
+        <integer>15</integer>
         <key>windowBackgroundColor</key>
-        <string>0.1 0.1 0.1 0.9</string>
+        <string>0.08 0.08 0.09 0.9</string>
         <key>windowBackgroundColorIsDark</key>
         <true />
         <key>windowBackgroundIsVibrant</key>
@@ -141,7 +141,7 @@
         <key>windowBackgroundVibrancy</key>
         <integer>1</integer>
         <key>windowCornerRadius</key>
-        <integer>5</integer>
+        <integer>7</integer>
         <key>windowHasInnerShadow</key>
         <true />
         <key>windowShadowStyle</key>
