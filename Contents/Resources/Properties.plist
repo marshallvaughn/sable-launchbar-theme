@@ -40,6 +40,8 @@
         <string>SFCompactRounded-Medium</string>
         <key>itemListGridLineShadowHeight</key>
         <integer>0</integer>
+        <key>itemListSubtitleInSeparateLine</key>
+        <string>true</string>
         <key>itemListLabeledExtraDetailsBackgroundColor</key>
         <string>1 1 1 0.1</string>
         <key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
