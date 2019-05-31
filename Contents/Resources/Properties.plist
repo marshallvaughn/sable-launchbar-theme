@@ -19,13 +19,17 @@
         <key>defaultFontName</key>
         <string>SFCompactRounded-Medium</string>
         <key>inputAreaAbbreviationBaselineOffset</key>
-        <integer>0</integer>
+        <integer>1</integer>
         <key>inputAreaAbbreviationFontName</key>
         <string>SFCompactRounded-Bold</string>
         <key>inputAreaAbbreviationFontSize</key>
         <integer>13</integer>
+        <key>inputAreaAbbreviationInputProgressIndicationRadius</key>
+        <integer>1</integer>
+        <key>inputAreaAbbreviationInputProgressIndicationThickness</key>
+        <integer>2</integer>
         <key>inputAreaAbbreviationTextColor</key>
-        <string>0.6 0.45 0.9 0.8</string>
+        <string>@brightBlue + 0.8</string>
         <key>inputAreaActionMenuAreaBackgroundColor</key>
         <string>0 0 0 0.12</string>
         <key>inputAreaHeight</key>
@@ -34,6 +38,8 @@
         <real>-0.3</real>
         <key>inputAreaTextColor</key>
         <string>@defaultTextColor</string>
+        <key>itemListEdgeInsets</key>
+        <string>0 0 0 0</string>
         <key>itemListExtraDetailsBaselineOffset</key>
         <integer>0</integer>
         <key>itemListExtraDetailsFontName</key>
@@ -96,6 +102,10 @@
         <string>0 0 0 0</string>
         <key>textInputFieldTextContainerInset</key>
         <string>0 -10</string>
+        <key>textInputFocusRingColor</key>
+        <string>0 0 0 1 1</string>
+        <key>textInputFocusRingLineWidth</key>
+        <string>3</string>
         <key>textInputFontName</key>
         <string>SFCompactRounded-Regular</string>
         <key>textInputPlaceholderTextColor</key>
