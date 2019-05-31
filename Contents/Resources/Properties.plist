@@ -31,7 +31,9 @@
         <key>inputAreaAbbreviationTextColor</key>
         <string>@brightBlue + 0.8</string>
         <key>inputAreaActionMenuAreaBackgroundColor</key>
-        <string>0 0 0 0.12</string>
+        <string>0 0 1 0.12</string>
+        <key>inputAreaActionMenuAreaEdgeInsets</key>
+        <string>10 10 10 10</string>
         <key>inputAreaHeight</key>
         <integer>55</integer>
         <key>inputAreaNonKeyWindowTextColorOffsetLevel</key>
@@ -39,7 +41,7 @@
         <key>inputAreaTextColor</key>
         <string>@defaultTextColor</string>
         <key>itemListEdgeInsets</key>
-        <string>0 0 0 0</string>
+        <string>0 1 1 0</string>
         <key>itemListExtraDetailsBaselineOffset</key>
         <integer>0</integer>
         <key>itemListExtraDetailsFontName</key>
@@ -59,19 +61,25 @@
         <key>itemListLabeledExtraDetailsFontName</key>
         <string>@labelFontName</string>
         <key>itemListLabeledExtraDetailsFontSize</key>
-        <string>@labelFontSize</string>
+        <string>12</string>
         <key>itemListLabeledExtraDetailsPadding</key>
         <integer>8</integer>
         <key>itemListLabeledExtraDetailsTextColor</key>
         <string>1 1 1 0.7</string>
         <key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
         <string>0 0 0 0.2</string>
+        <key>itemListLabeledExtraDetailsDeemphasizedFontSize</key>
+        <integer>12</integer>
+        <key>itemListLabelCircleDiameter</key>
+        <integer>39</integer>
         <key>itemListNavigationArrowImage</key>
         <string>NavigationArrow.png</string>
         <key>itemListScrollerColor</key>
         <string>1 1 1 0.2</string>
         <key>itemListScrollerPadding</key>
         <string>6</string>
+        <key>itemListSelectionCornerRadius</key>
+        <integer>0</integer>
         <key>itemListSelectionHighlightColor</key>
         <string>@brightBlue</string>
         <key>itemListSelectionSubsearchHighlightColor</key>
@@ -129,7 +137,7 @@
         <key>windowHasInnerShadow</key>
         <true />
         <key>windowShadowStyle</key>
-        <integer>4</integer>
+        <integer>3</integer>
         <key>windowVibrantBackgroundColor</key>
         <string>0 0 0 0.10</string>
         <key>itemListGridLineGradient</key>
