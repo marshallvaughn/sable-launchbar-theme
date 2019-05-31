@@ -55,7 +55,7 @@
         <key>itemListLabeledExtraDetailsFontSize</key>
         <string>@labelFontSize</string>
         <key>itemListLabeledExtraDetailsPadding</key>
-        <string>7</string>
+        <integer>8</integer>
         <key>itemListLabeledExtraDetailsTextColor</key>
         <string>1 1 1 0.7</string>
         <key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
@@ -73,11 +73,13 @@
         <key>itemListStagedItemHighlightLevel</key>
         <real>0.3</real>
         <key>itemListSubtitleBaselineOffset</key>
-        <string>5</string>
+        <integer>1</integer>
         <key>itemListSubtitleFontName</key>
-        <string>SFCompactRounded-Semibold</string>
+        <string>SFCompactRounded-Medium</string>
         <key>itemListSubtitleTextColor</key>
-        <string>@defaultTextColor - 0.35</string>
+        <string>@defaultTextColor - 0.45</string>
+        <key>itemListTitleBaselineOffset</key>
+        <integer>1</integer>
         <key>itemListTitleFontName</key>
         <string>SFCompactRounded-Medium</string>
         <key>labelFontName</key>
