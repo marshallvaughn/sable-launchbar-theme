@@ -7,6 +7,13 @@ It's meant to be a friendly looking, clear, concise theme. Built for people like
 
 Feel free to use the theme however you like! Modify, fork, or steal as you wish.
 
+## Construction
+The base directory for the repo is the package dir for the theme, so you should be able to clone this straight into `~/Library/Application Support/LaunchBar/Themes/Sable.lbtheme` and be ready to rock and roll. For convenience, you can use the following to do this from the command line: `git clone 'https://github.com/marshallvaughn/Sable-LaunchBar-Theme.git' ~/Library/Application Support/LaunchBar/Themes/Sable.lbtheme`.
+
+The fonts used are all Apple system fonts. I like to keep it in the family, because it jives with the rest of the system UI, and because I find the whole San Francisco font family to be beautiful and generally agreeable. Specifically, the two major font families this uses are **SF Mono** and **SF Compact Rounded**.
+
+Apple has kindly provided access to the **SF Compact Rounded** family (and others) [here](https://developer.apple.com/fonts/). The **SF Mono** family likely already exists on your machine (*the files are **in** the computer*)! Head on over to `/Applications/Utilities/Terminal.app/Contents/Resources/Fonts` and install using the standard double-click.
+
 ## Known Properties
 I don't know of any place that lists out the possible properties for LaunchBar themes, so I've included the ones I found in the [Keys.md](Keys.md) file. I've included the shell commands I used to query them below, both of which are run from within the app package, at `/Applications/LaunchBar.app/Resources/Themes`.
 
