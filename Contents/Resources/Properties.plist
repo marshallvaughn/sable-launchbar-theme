@@ -43,7 +43,7 @@
         <key>itemListLabeledExtraDetailsBackgroundColor</key>
         <string>1 1 1 0.1</string>
         <key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
-        <string>4</string>
+        <string>10</string>
         <key>itemListLabeledExtraDetailsBadgeHeight</key>
         <string>20</string>
         <key>itemListLabeledExtraDetailsBaselineOffset</key>
@@ -53,7 +53,7 @@
         <key>itemListLabeledExtraDetailsFontSize</key>
         <string>@labelFontSize</string>
         <key>itemListLabeledExtraDetailsPadding</key>
-        <string>6</string>
+        <string>7</string>
         <key>itemListLabeledExtraDetailsTextColor</key>
         <string>1 1 1 0.7</string>
         <key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
