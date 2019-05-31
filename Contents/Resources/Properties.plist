@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>parent</key>
-        <string>at.obdev.LaunchBar.theme.BaseDark</string>
+        <string>at.obdev.LaunchBar.theme.Default</string>
         <key>brightBlue</key>
         <string>0.16 0.56 1 0.8</string>
         <key>defaultDimmedTextColor</key>
@@ -16,10 +16,6 @@
         <string>#00000033</string>
         <key>defaultTextShadowColor@2x</key>
         <string>clearColor</string>
-        <key>labelFontName</key>
-        <string>SFMono-Bold</string>
-        <key>labelFontSize</key>
-        <string>13</string>
         <key>defaultFontName</key>
         <string>SFCompactRounded-Medium</string>
         <key>inputAreaAbbreviationBaselineOffset</key>
@@ -29,7 +25,7 @@
         <key>inputAreaAbbreviationFontSize</key>
         <integer>13</integer>
         <key>inputAreaAbbreviationTextColor</key>
-        <string>@brightBlue</string>
+        <string>0.6 0.45 0.9 0.8</string>
         <key>inputAreaActionMenuAreaBackgroundColor</key>
         <string>0 0 0 0.12</string>
         <key>inputAreaHeight</key>
@@ -41,31 +37,31 @@
         <key>itemListExtraDetailsBaselineOffset</key>
         <integer>0</integer>
         <key>itemListExtraDetailsFontName</key>
-        <string>@labelFontName</string>
+        <string>SFCompactRounded-Medium</string>
         <key>itemListGridLineShadowHeight</key>
         <integer>0</integer>
         <key>itemListLabeledExtraDetailsBackgroundColor</key>
-        <string>0 0 0 1</string>
+        <string>1 1 1 0.1</string>
         <key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
-        <string>8</string>
+        <string>4</string>
         <key>itemListLabeledExtraDetailsBadgeHeight</key>
         <string>20</string>
         <key>itemListLabeledExtraDetailsBaselineOffset</key>
-        <integer>41</integer>
-        <key>itemListLabeledExtraDetailsBaselineOffset</key>
-        <string>3</string>
-        <key>itemListLabeledExtraDetailsBaselineOffset</key>
-        <string>3</string>
+        <integer>2</integer>
         <key>itemListLabeledExtraDetailsFontName</key>
         <string>@labelFontName</string>
         <key>itemListLabeledExtraDetailsFontSize</key>
         <string>@labelFontSize</string>
         <key>itemListLabeledExtraDetailsPadding</key>
-        <string>10</string>
+        <string>6</string>
+        <key>itemListLabeledExtraDetailsTextColor</key>
+        <string>1 1 1 0.7</string>
+        <key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
+        <string>0 0 0 0.2</string>
         <key>itemListNavigationArrowImage</key>
         <string>NavigationArrow.png</string>
         <key>itemListScrollerColor</key>
-        <string>#ffffff60</string>
+        <string>1 1 1 0.2</string>
         <key>itemListSelectionHighlightColor</key>
         <string>@brightBlue</string>
         <key>itemListSelectionSubsearchHighlightColor</key>
@@ -74,14 +70,26 @@
         <string>1 1 1 0.2</string>
         <key>itemListStagedItemHighlightLevel</key>
         <real>0.3</real>
+        <key>itemListSubtitleBaselineOffset</key>
+        <string>5</string>
         <key>itemListSubtitleFontName</key>
-        <string>SFCompactRounded-Medium</string>
+        <string>SFCompactRounded-Semibold</string>
         <key>itemListSubtitleTextColor</key>
         <string>@defaultTextColor - 0.35</string>
+        <key>labelFontName</key>
+        <string>SFMono-Bold</string>
+        <key>labelFontSize</key>
+        <string>13</string>
+        <key>textInputBackgroundColor</key>
+        <string>clear</string>
         <key>textInputEdgeInsets</key>
-        <string>-18 5 20 8</string>
+        <string>8 8 16 8</string>
+        <key>textInputFieldEditorEdgeInsets</key>
+        <string>0 0 0 0</string>
+        <key>textInputFieldTextContainerInset</key>
+        <string>0 -10</string>
         <key>textInputFontName</key>
-        <string>SFCompactRounded-Light</string>
+        <string>SFCompactRounded-Regular</string>
         <key>textInputPlaceholderTextColor</key>
         <string>#999999</string>
         <key>textInputSelectedTextBackgroundColor</key>
@@ -89,7 +97,7 @@
         <key>textInputTitleFontName</key>
         <string>SFCompactRounded-Semibold</string>
         <key>windowBackgroundBlurRadius</key>
-        <integer>0</integer>
+        <integer>10</integer>
         <key>windowBackgroundColor</key>
         <string>0.1 0.1 0.1 0.9</string>
         <key>windowBackgroundColorIsDark</key>
