@@ -50,6 +50,8 @@
         <integer>0</integer>
         <key>itemListSubtitleInSeparateLine</key>
         <string>true</string>
+        <key>itemListRowHeight</key>
+        <integer>50</integer>
         <key>itemListLabeledExtraDetailsBackgroundColor</key>
         <string>1 1 1 0.1</string>
         <key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
@@ -81,11 +83,17 @@
         <key>itemListSelectionCornerRadius</key>
         <integer>0</integer>
         <key>itemListSelectionHighlightColor</key>
-        <string>@brightBlue</string>
+        <string>0.14 0.25 0.44 1</string>
         <key>itemListSelectionSubsearchHighlightColor</key>
-        <string>#376BAB</string>
+        <string>0.14 0.25 0.44 0.8</string>
+        <key>itemListSeparatorLowerLineColor</key>
+        <string>1 1 1 0.1</string>
+        <key>itemListSeparatorLowerLineThickness</key>
+        <integer>1</integer>
         <key>itemListSeparatorUpperLineColor</key>
-        <string>1 1 1 0.2</string>
+        <string>0 0 0 0.5</string>
+        <key>itemListSeparatorUpperLineThickness</key>
+        <integer>1</integer>
         <key>itemListStagedItemHighlightLevel</key>
         <real>0.3</real>
         <key>itemListSubtitleBaselineOffset</key>
@@ -111,9 +119,9 @@
         <key>textInputFieldTextContainerInset</key>
         <string>0 -10</string>
         <key>textInputFocusRingColor</key>
-        <string>0 0 0 1 1</string>
+        <string>0 0 0 0 0</string>
         <key>textInputFocusRingLineWidth</key>
-        <string>3</string>
+        <string>0</string>
         <key>textInputFontName</key>
         <string>SFCompactRounded-Regular</string>
         <key>textInputPlaceholderTextColor</key>
@@ -143,13 +151,13 @@
         <key>itemListGridLineGradient</key>
         <dict>
             <key>0.0</key>
-            <string>1 1 1 0.1</string>
+            <string>1 1 1 0.05</string>
             <key>0.1</key>
-            <string>1 1 1 0.2</string>
-            <key>0.9</key>
-            <string>1 1 1 0.2</string>
-            <key>1.0</key>
             <string>1 1 1 0.1</string>
+            <key>0.9</key>
+            <string>1 1 1 0.1</string>
+            <key>1.0</key>
+            <string>1 1 1 0.05</string>
         </dict>
     </dict>
 </plist>
