@@ -1,163 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>parent</key>
-        <string>at.obdev.LaunchBar.theme.Default</string>
-        <key>brightBlue</key>
-        <string>0.16 0.56 1 0.8</string>
-        <key>defaultDimmedTextColor</key>
-        <string>0.8 0.8 0.8</string>
-        <key>defaultEmphasizedFontName</key>
-        <string>SFCompactRounded-Semibold</string>
-        <key>defaultTextColor</key>
-        <string>whiteColor</string>
-        <key>defaultTextShadowColor</key>
-        <string>#00000033</string>
-        <key>defaultTextShadowColor@2x</key>
-        <string>clearColor</string>
-        <key>defaultFontName</key>
-        <string>SFCompactRounded-Medium</string>
-        <key>inputAreaAbbreviationBaselineOffset</key>
-        <integer>1</integer>
-        <key>inputAreaAbbreviationFontName</key>
-        <string>SFCompactRounded-Bold</string>
-        <key>inputAreaAbbreviationFontSize</key>
-        <integer>13</integer>
-        <key>inputAreaAbbreviationInputProgressIndicationRadius</key>
-        <integer>1</integer>
-        <key>inputAreaAbbreviationInputProgressIndicationThickness</key>
-        <integer>2</integer>
-        <key>inputAreaAbbreviationTextColor</key>
-        <string>@brightBlue + 0.8</string>
-        <key>inputAreaActionMenuAreaBackgroundColor</key>
-        <string>0 0 1 0.12</string>
-        <key>inputAreaActionMenuAreaEdgeInsets</key>
-        <string>10 10 10 10</string>
-        <key>inputAreaHeight</key>
-        <integer>55</integer>
-        <key>inputAreaNonKeyWindowTextColorOffsetLevel</key>
-        <real>-0.3</real>
-        <key>inputAreaTextColor</key>
-        <string>@defaultTextColor</string>
-        <key>itemListEdgeInsets</key>
-        <string>0 1 1 0</string>
-        <key>itemListExtraDetailsBaselineOffset</key>
-        <integer>0</integer>
-        <key>itemListExtraDetailsFontName</key>
-        <string>SFCompactRounded-Medium</string>
-        <key>itemListGridLineShadowHeight</key>
-        <integer>0</integer>
-        <key>itemListSubtitleInSeparateLine</key>
-        <string>true</string>
-        <key>itemListRowHeight</key>
-        <integer>50</integer>
-        <key>itemListLabeledExtraDetailsBackgroundColor</key>
-        <string>1 1 1 0.1</string>
-        <key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
-        <string>10</string>
-        <key>itemListLabeledExtraDetailsBadgeHeight</key>
-        <string>20</string>
-        <key>itemListLabeledExtraDetailsBaselineOffset</key>
-        <integer>2</integer>
-        <key>itemListLabeledExtraDetailsFontName</key>
-        <string>@labelFontName</string>
-        <key>itemListLabeledExtraDetailsFontSize</key>
-        <string>12</string>
-        <key>itemListLabeledExtraDetailsPadding</key>
-        <integer>8</integer>
-        <key>itemListLabeledExtraDetailsTextColor</key>
-        <string>1 1 1 0.7</string>
-        <key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
-        <string>0 0 0 0.2</string>
-        <key>itemListLabeledExtraDetailsDeemphasizedFontSize</key>
-        <integer>12</integer>
-        <key>itemListLabelCircleDiameter</key>
-        <integer>39</integer>
-        <key>itemListNavigationArrowImage</key>
-        <string>NavigationArrow.png</string>
-        <key>itemListScrollerColor</key>
-        <string>1 1 1 0.2</string>
-        <key>itemListScrollerPadding</key>
-        <string>6</string>
-        <key>itemListSelectionCornerRadius</key>
-        <integer>0</integer>
-        <key>itemListSelectionHighlightColor</key>
-        <string>0.14 0.25 0.44 1</string>
-        <key>itemListSelectionSubsearchHighlightColor</key>
-        <string>0.14 0.25 0.44 0.5</string>
-        <key>itemListSeparatorLowerLineColor</key>
-        <string>1 1 1 0.1</string>
-        <key>itemListSeparatorLowerLineThickness</key>
-        <integer>1</integer>
-        <key>itemListSeparatorUpperLineColor</key>
-        <string>0 0 0 0.5</string>
-        <key>itemListSeparatorUpperLineThickness</key>
-        <integer>1</integer>
-        <key>itemListStagedItemHighlightLevel</key>
-        <real>0.3</real>
-        <key>itemListSubtitleBaselineOffset</key>
-        <integer>1</integer>
-        <key>itemListSubtitleFontName</key>
-        <string>SFCompactRounded-Medium</string>
-        <key>itemListSubtitleTextColor</key>
-        <string>@defaultTextColor - 0.45</string>
-        <key>itemListTitleBaselineOffset</key>
-        <integer>1</integer>
-        <key>itemListTitleFontName</key>
-        <string>SFCompactRounded-Medium</string>
-        <key>labelFontName</key>
-        <string>SFCompactRounded-Bold</string>
-        <key>labelFontSize</key>
-        <string>13</string>
-        <key>textInputBackgroundColor</key>
-        <string>clear</string>
-        <key>textInputEdgeInsets</key>
-        <string>8 8 16 8</string>
-        <key>textInputFieldEditorEdgeInsets</key>
-        <string>0 0 0 0</string>
-        <key>textInputFieldTextContainerInset</key>
-        <string>0 -10</string>
-        <key>textInputFocusRingColor</key>
-        <string>0 0 0 0 0</string>
-        <key>textInputFocusRingLineWidth</key>
-        <string>0</string>
-        <key>textInputFontName</key>
-        <string>SFCompactRounded-Regular</string>
-        <key>textInputPlaceholderTextColor</key>
-        <string>#999999</string>
-        <key>textInputSelectedTextBackgroundColor</key>
-        <string>@itemListSelectionHighlightColor</string>
-        <key>textInputTitleFontName</key>
-        <string>SFCompactRounded-Semibold</string>
-        <key>windowBackgroundBlurRadius</key>
-        <integer>15</integer>
-        <key>windowBackgroundColor</key>
-        <string>0.08 0.08 0.09 0.9</string>
-        <key>windowBackgroundColorIsDark</key>
-        <true />
-        <key>windowBackgroundIsVibrant</key>
-        <false />
-        <key>windowBackgroundVibrancy</key>
-        <integer>1</integer>
-        <key>windowCornerRadius</key>
-        <integer>7</integer>
-        <key>windowHasInnerShadow</key>
-        <true />
-        <key>windowShadowStyle</key>
-        <integer>3</integer>
-        <key>windowVibrantBackgroundColor</key>
-        <string>0 0 0 0.10</string>
-        <key>itemListGridLineGradient</key>
-        <dict>
-            <key>0.0</key>
-            <string>1 1 1 0.05</string>
-            <key>0.1</key>
-            <string>1 1 1 0.1</string>
-            <key>0.9</key>
-            <string>1 1 1 0.1</string>
-            <key>1.0</key>
-            <string>1 1 1 0.05</string>
-        </dict>
-    </dict>
+<dict>
+	<key>parent</key>
+	<string>at.obdev.LaunchBar.theme.Default</string>
+	<key>brightBlue</key>
+	<string>0.16 0.56 1 0.8</string>
+	<key>defaultDimmedTextColor</key>
+	<string>0.8 0.8 0.8</string>
+	<key>defaultEmphasizedFontName</key>
+	<string>SFCompactRounded-Semibold</string>
+	<key>defaultTextColor</key>
+	<string>whiteColor</string>
+	<key>defaultTextShadowColor</key>
+	<string>#00000033</string>
+	<key>defaultTextShadowColor@2x</key>
+	<string>clearColor</string>
+	<key>defaultFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>inputAreaAbbreviationBaselineOffset</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationFontName</key>
+	<string>SFCompactRounded-Bold</string>
+	<key>inputAreaAbbreviationFontSize</key>
+	<integer>13</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationRadius</key>
+	<integer>1</integer>
+	<key>inputAreaAbbreviationInputProgressIndicationThickness</key>
+	<integer>2</integer>
+	<key>inputAreaAbbreviationTextColor</key>
+	<string>@brightBlue + 0.8</string>
+	<key>inputAreaActionMenuAreaBackgroundColor</key>
+	<string>0 0 1 0.12</string>
+	<key>inputAreaActionMenuAreaEdgeInsets</key>
+	<string>10 10 10 10</string>
+	<key>inputAreaHeight</key>
+	<integer>55</integer>
+	<key>inputAreaNonKeyWindowTextColorOffsetLevel</key>
+	<real>-0.3</real>
+	<key>inputAreaTextColor</key>
+	<string>@defaultTextColor</string>
+	<key>itemListEdgeInsets</key>
+	<string>0 1 1 0</string>
+	<key>itemListExtraDetailsBaselineOffset</key>
+	<integer>0</integer>
+	<key>itemListExtraDetailsFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>itemListGridLineShadowHeight</key>
+	<integer>0</integer>
+	<key>itemListSubtitleInSeparateLine</key>
+	<string>true</string>
+	<key>itemListRowHeight</key>
+	<integer>50</integer>
+	<key>itemListLabeledExtraDetailsBackgroundColor</key>
+	<string>1 1 1 0.1</string>
+	<key>itemListLabeledExtraDetailsBadgeCornerRadius</key>
+	<integer>10</integer>
+	<key>itemListLabeledExtraDetailsBadgeHeight</key>
+	<integer>20</integer>
+	<key>itemListLabeledExtraDetailsBaselineOffset</key>
+	<integer>2</integer>
+	<key>itemListLabeledExtraDetailsFontName</key>
+	<string>@labelFontName</string>
+	<key>itemListLabeledExtraDetailsFontSize</key>
+	<integer>12</integer>
+	<key>itemListLabeledExtraDetailsPadding</key>
+	<integer>8</integer>
+	<key>itemListLabeledExtraDetailsTextColor</key>
+	<string>1 1 1 0.7</string>
+	<key>itemListLabeledExtraDetailsSelectedBackgroundColor</key>
+	<string>0 0 0 0.2</string>
+	<key>itemListLabeledExtraDetailsDeemphasizedFontSize</key>
+	<integer>12</integer>
+	<key>itemListLabelCircleDiameter</key>
+	<integer>39</integer>
+	<key>itemListNavigationArrowImage</key>
+	<string>NavigationArrow.png</string>
+	<key>itemListScrollerColor</key>
+	<string>1 1 1 0.2</string>
+	<key>itemListScrollerPadding</key>
+	<integer>6</integer>
+	<key>itemListSelectionCornerRadius</key>
+	<integer>0</integer>
+	<key>itemListSelectionHighlightColor</key>
+	<string>0.14 0.25 0.44 1</string>
+	<key>itemListSelectionSubsearchHighlightColor</key>
+	<string>0.14 0.25 0.44 0.5</string>
+	<key>itemListSeparatorLowerLineColor</key>
+	<string>1 1 1 0.1</string>
+	<key>itemListSeparatorLowerLineThickness</key>
+	<integer>1</integer>
+	<key>itemListSeparatorUpperLineColor</key>
+	<string>0 0 0 0.5</string>
+	<key>itemListSeparatorUpperLineThickness</key>
+	<integer>1</integer>
+	<key>itemListStagedItemHighlightLevel</key>
+	<real>0.3</real>
+	<key>itemListSubtitleBaselineOffset</key>
+	<integer>1</integer>
+	<key>itemListSubtitleFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>itemListSubtitleTextColor</key>
+	<string>@defaultTextColor - 0.45</string>
+	<key>itemListTitleBaselineOffset</key>
+	<integer>1</integer>
+	<key>itemListTitleFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>labelFontName</key>
+	<string>SFCompactRounded-Bold</string>
+	<key>labelFontSize</key>
+	<integer>13</integer>
+	<key>textInputBackgroundColor</key>
+	<string>clear</string>
+	<key>textInputEdgeInsets</key>
+	<string>8 8 16 8</string>
+	<key>textInputFieldEditorEdgeInsets</key>
+	<string>0 0 0 0</string>
+	<key>textInputFieldTextContainerInset</key>
+	<string>0 -10</string>
+	<key>textInputFocusRingColor</key>
+	<string>0 0 0 0 0</string>
+	<key>textInputFocusRingLineWidth</key>
+	<integer>0</integer>
+	<key>textInputFontName</key>
+	<string>SFCompactRounded-Regular</string>
+	<key>textInputPlaceholderTextColor</key>
+	<string>#999999</string>
+	<key>textInputSelectedTextBackgroundColor</key>
+	<string>@itemListSelectionHighlightColor</string>
+	<key>textInputTitleFontName</key>
+	<string>SFCompactRounded-Semibold</string>
+	<key>windowBackgroundBlurRadius</key>
+	<integer>15</integer>
+	<key>windowBackgroundColor</key>
+	<string>0.08 0.08 0.09 0.9</string>
+	<key>windowBackgroundColorIsDark</key>
+	<true/>
+	<key>windowBackgroundIsVibrant</key>
+	<false/>
+	<key>windowBackgroundVibrancy</key>
+	<integer>1</integer>
+	<key>windowCornerRadius</key>
+	<integer>7</integer>
+	<key>windowHasInnerShadow</key>
+	<true/>
+	<key>windowShadowStyle</key>
+	<integer>3</integer>
+	<key>windowVibrantBackgroundColor</key>
+	<string>0 0 0 0.10</string>
+	<key>itemListGridLineGradient</key>
+	<dict>
+		<key>0.0</key>
+		<string>1 1 1 0.05</string>
+		<key>0.1</key>
+		<string>1 1 1 0.1</string>
+		<key>0.9</key>
+		<string>1 1 1 0.1</string>
+		<key>1.0</key>
+		<string>1 1 1 0.05</string>
+	</dict>
+</dict>
 </plist>
