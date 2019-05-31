@@ -79,7 +79,7 @@
         <key>itemListSubtitleTextColor</key>
         <string>@defaultTextColor - 0.35</string>
         <key>itemListTitleFontName</key>
-        <string>SFCompactRounded-Bold</string>
+        <string>SFCompactRounded-Medium</string>
         <key>labelFontName</key>
         <string>SFMono-Bold</string>
         <key>labelFontSize</key>
