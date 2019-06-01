@@ -3,9 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>parent</key>
-	<string>at.obdev.LaunchBar.theme.Default</string>
+	<string>at.obdev.LaunchBar.theme.Dark</string>
 	<key>brightBlue</key>
 	<string>0.16 0.56 1 0.8</string>
+	<key>defaultFontName</key>
+	<string>SFCompactRounded-Regular</string>
+	<key>titleFontName</key>
+	<string>@defaultFontName</string>
+	<key>subtitleFontName</key>
+	<string>SFCompactRounded-Medium</string>
+	<key>labelFontName</key>
+	<string>SFCompactRounded-Bold</string>
+	<key>inputFontName</key>
+	<string>@defaultFontName</string>
+	<key>badgeFont</key>
+	<string>SFCompactRounded-Semibold</string>
+    <key>selectionHighlightColor</key>
+    <string>0.14 0.25 0.64 0.6</string>
+	<key>defaultShadowOffset</key>
+	<string>30</string>
 	<key>defaultDimmedTextColor</key>
 	<string>0.8 0.8 0.8</string>
 	<key>defaultEmphasizedFontName</key>
@@ -16,8 +32,6 @@
 	<string>#00000033</string>
 	<key>defaultTextShadowColor@2x</key>
 	<string>clearColor</string>
-	<key>defaultFontName</key>
-	<string>SFCompactRounded-Medium</string>
 	<key>inputAreaAbbreviationBaselineOffset</key>
 	<integer>1</integer>
 	<key>inputAreaAbbreviationFontName</key>
@@ -41,7 +55,7 @@
 	<key>inputAreaTextColor</key>
 	<string>@defaultTextColor</string>
 	<key>itemListEdgeInsets</key>
-	<string>0 1 1 0</string>
+	<string>3 4 4 4</string>
 	<key>itemListExtraDetailsBaselineOffset</key>
 	<integer>0</integer>
 	<key>itemListExtraDetailsFontName</key>
@@ -81,11 +95,11 @@
 	<key>itemListScrollerPadding</key>
 	<integer>6</integer>
 	<key>itemListSelectionCornerRadius</key>
-	<integer>0</integer>
+	<integer>3</integer>
 	<key>itemListSelectionHighlightColor</key>
-	<string>0.14 0.25 0.44 1</string>
+	<string>@selectionHighlightColor</string>
 	<key>itemListSelectionSubsearchHighlightColor</key>
-	<string>0.14 0.25 0.44 0.5</string>
+	<string>@selectionHighlightColor - 0.45</string>
 	<key>itemListSeparatorLowerLineColor</key>
 	<string>1 1 1 0.1</string>
 	<key>itemListSeparatorLowerLineThickness</key>
@@ -105,11 +119,7 @@
 	<key>itemListTitleBaselineOffset</key>
 	<integer>1</integer>
 	<key>itemListTitleFontName</key>
-	<string>SFCompactRounded-Medium</string>
-	<key>labelFontName</key>
-	<string>SFCompactRounded-Bold</string>
-	<key>labelFontSize</key>
-	<integer>13</integer>
+	<string>@titleFontName</string>
 	<key>textInputBackgroundColor</key>
 	<string>clear</string>
 	<key>textInputEdgeInsets</key>
@@ -133,7 +143,7 @@
 	<key>windowBackgroundBlurRadius</key>
 	<integer>15</integer>
 	<key>windowBackgroundColor</key>
-	<string>0.08 0.08 0.09 0.9</string>
+	<string>0.05 0.05 0.06 0.8</string>
 	<key>windowBackgroundColorIsDark</key>
 	<true/>
 	<key>windowBackgroundIsVibrant</key>
@@ -141,13 +151,13 @@
 	<key>windowBackgroundVibrancy</key>
 	<integer>1</integer>
 	<key>windowCornerRadius</key>
-	<integer>7</integer>
+	<integer>6</integer>
 	<key>windowHasInnerShadow</key>
 	<true/>
 	<key>windowShadowStyle</key>
 	<integer>3</integer>
 	<key>windowVibrantBackgroundColor</key>
-	<string>0 0 0 0.10</string>
+	<string>0 0 0 0.4</string>
 	<key>itemListGridLineGradient</key>
 	<dict>
 		<key>0.0</key>
